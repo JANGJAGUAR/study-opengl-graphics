@@ -1,0 +1,19 @@
+﻿  main.cpp
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\External Libs\GLFW\include\GLFW\glfw3.h(3235,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\utils\cube.h(129,76): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\utils\cube.h(130,76): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\utils\cube.h(131,76): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\utils\arcball.h(82,27): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\utils\mass.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\utils\mass.h(60,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\utils\plane.h(93,76): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\utils\plane.h(94,76): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\utils\plane.h(95,76): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\utils\plane.h(115,76): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\utils\plane.h(116,76): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\utils\plane.h(117,76): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\utils\text.h(26,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'ft2build.h': No such file or directory

@@ -1,0 +1,45 @@
+﻿  main.cpp
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\External Libs\GLFW\include\GLFW\glfw3.h(3235,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\projects\Ex03\Ex03\main.cpp(93,45): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\projects\Ex03\Ex03\main.cpp(94,46): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+main.obj : error LNK2019: __imp_glewInitmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwInitmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwTerminatemain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwWindowHintmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwCreateWindowmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwDestroyWindowmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwWindowShouldClosemain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwSetFramebufferSizeCallbackmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwPollEventsmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwGetCursorPos"void __cdecl mouse_button_callback(struct GLFWwindow *,int,int,int)" (?mouse_button_callback@@YAXPEAUGLFWwindow@@HHH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwSetMouseButtonCallbackmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwMakeContextCurrentmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwSwapBuffersmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewBindBuffermain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewBufferDatamain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewDeleteBuffersmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewGenBuffersmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewAttachShader"public: void __cdecl Shader::initShader(char const *,char const *,char const *)" (?initShader@Shader@@QEAAXPEBD00@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewCompileShader"public: void __cdecl Shader::initShader(char const *,char const *,char const *)" (?initShader@Shader@@QEAAXPEBD00@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewCreateProgram"public: void __cdecl Shader::initShader(char const *,char const *,char const *)" (?initShader@Shader@@QEAAXPEBD00@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewCreateShader"public: void __cdecl Shader::initShader(char const *,char const *,char const *)" (?initShader@Shader@@QEAAXPEBD00@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewDeleteShader"public: void __cdecl Shader::initShader(char const *,char const *,char const *)" (?initShader@Shader@@QEAAXPEBD00@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewEnableVertexAttribArraymain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewGetProgramInfoLog"private: void __cdecl Shader::checkCompileErrors(unsigned int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?checkCompileErrors@Shader@@AEAAXIV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewGetProgramiv"private: void __cdecl Shader::checkCompileErrors(unsigned int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?checkCompileErrors@Shader@@AEAAXIV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewGetShaderInfoLog"private: void __cdecl Shader::checkCompileErrors(unsigned int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?checkCompileErrors@Shader@@AEAAXIV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewGetShaderiv"private: void __cdecl Shader::checkCompileErrors(unsigned int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?checkCompileErrors@Shader@@AEAAXIV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewGetUniformLocation"public: void __cdecl Shader::setFloat(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,float)const " (?setFloat@Shader@@QEBAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@M@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewLinkProgram"public: void __cdecl Shader::initShader(char const *,char const *,char const *)" (?initShader@Shader@@QEAAXPEBD00@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewShaderSource"public: void __cdecl Shader::initShader(char const *,char const *,char const *)" (?initShader@Shader@@QEAAXPEBD00@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewUniform1f"public: void __cdecl Shader::setFloat(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,float)const " (?setFloat@Shader@@QEBAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@M@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewUniform4f"public: void __cdecl Shader::setVec4(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,float,float,float,float)" (?setVec4@Shader@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MMMM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewUseProgram"public: void __cdecl Shader::use(void)" (?use@Shader@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewVertexAttribPointermain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewBindVertexArraymain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewDeleteVertexArraysmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewGenVertexArraysmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glewExperimentalmain 함수에서 참조되는 확인할 수 없는 외부 기호
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\projects\Ex03\\..\..\External Libs\GLEW\lib\Release\Win32\glew32.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\projects\Ex03\\..\..\External Libs\GLFW\lib-vc2015\glfw3.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\projects\Ex03\x64\Debug\Ex03.exe : fatal error LNK1120: 38개의 확인할 수 없는 외부 참조입니다.

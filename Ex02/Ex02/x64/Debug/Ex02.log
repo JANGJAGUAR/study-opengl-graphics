@@ -1,0 +1,38 @@
+﻿  main.cpp
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\External Libs\GLFW\include\GLFW\glfw3.h(3235,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+main.obj : error LNK2019: __imp_glewInitmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwInitmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwTerminatemain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwWindowHintmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwCreateWindowmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwDestroyWindowmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwWindowShouldClosemain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwSetWindowShouldClose"void __cdecl key_callback(struct GLFWwindow *,int,int,int,int)" (?key_callback@@YAXPEAUGLFWwindow@@HHHH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwSetFramebufferSizeCallbackmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwPollEventsmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwSetKeyCallbackmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwMakeContextCurrentmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glfwSwapBuffersmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewBindBuffermain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewBufferDatamain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewDeleteBuffersmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewGenBuffersmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewAttachShadermain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewCompileShadermain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewCreateProgrammain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewCreateShadermain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewDeleteShadermain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewEnableVertexAttribArraymain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewGetShaderInfoLogmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewGetShaderivmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewLinkProgrammain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewShaderSourcemain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewUseProgrammain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewVertexAttribPointermain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewBindVertexArraymain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewDeleteVertexArraysmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp___glewGenVertexArraysmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glewExperimentalmain 함수에서 참조되는 확인할 수 없는 외부 기호
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\projects\Ex02\\..\..\External Libs\GLEW\lib\Release\Win32\glew32.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\projects\Ex02\\..\..\External Libs\GLFW\lib-vc2015\glfw3.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+D:\Computer\Development\Game\ComputerGraphics\OpenGL\projects\Ex02\x64\Debug\Ex02.exe : fatal error LNK1120: 33개의 확인할 수 없는 외부 참조입니다.
